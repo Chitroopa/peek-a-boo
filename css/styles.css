@@ -13,3 +13,15 @@
 .text1 {
   display: none;
 }
+.btndark {
+  background-color: black;
+  color: white;
+}
+.btnlight {
+  background-color: #F4C0FF;
+  color: black;
+}
+.btnoriginal {
+  background-color: white;
+  color: black;
+}
